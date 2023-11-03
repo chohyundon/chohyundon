@@ -7,10 +7,9 @@ hyundon12@gmail.com
 <br>
 <br>
 
-# 🧑‍💻 introduction
+# 🧑‍💻 introduce
 - 프론트 엔드 개발자를 위해 나가고 있는 <br>
 조현돈 이라고 합니다 
-<br>
 <br>
 <br>
 <br>
