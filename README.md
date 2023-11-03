@@ -1,12 +1,20 @@
 
 <img src ="https://capsule-render.vercel.app/api?type=rect&text=donny💻&fontAlign=30&fontSize=30&desc=Front-end%20Developer&descAlign=60&descAlignY=50&theme=radical"/>
 
-
 # 📧 Email
 hyundon12@gmail.com
 <br>
 <br>
 <br>
+
+# 🧑‍💻 자기소개
+- 프론트 엔드 개발자를 위해 나가고 있는 <br>
+조현돈 이라고 합니다 
+<br>
+<br>
+<br>
+<br>
+
 
 # 📚 study
 <div style="display:flex; flex-direction:row;">
