@@ -2,6 +2,10 @@
 <img src ="https://capsule-render.vercel.app/api?type=rect&text=donny💻&fontAlign=30&fontSize=30&desc=Front-end%20Developer&descAlign=60&descAlignY=50&theme=radical"/>
 
 
+# 📧 Email
+hyundon12@gmail.com
+
+
 # 📚 study
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
