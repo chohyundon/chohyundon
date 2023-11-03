@@ -2,20 +2,19 @@
 <img src ="https://capsule-render.vercel.app/api?type=rect&text=donny💻&fontAlign=30&fontSize=30&desc=Front-end%20Developer&descAlign=60&descAlignY=50&theme=radical"/>
 <br>
 <br>
-<br>
 
 # 📧 Email
 hyundon12@gmail.com
 <br>
 <br>
-<br>
+
 
 # 🧑‍💻 introduce
 프론트 엔드 개발자를 위해 나가고 있는 <br>
 조현돈 이라고 합니다 
 <br>
 <br>
-<br>
+
 
 
 # 📚 study
@@ -27,8 +26,8 @@ hyundon12@gmail.com
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<br><br>
-<br><br>
+<br>
+<br>
 
 
 # Commit 💻
